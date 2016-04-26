@@ -6,7 +6,7 @@ Página oficial: https://github.com/yakyak/yakyak
 Está é uma tradução do YakYak 1.2.0 para Português-BR.
 
 # Instalação:
-Faça o download do YaYak 1.2.0 (Linux x64) em: https://github.com/yakyak/yakyak/releases/download/v1.2.0/yakyak-linux-x64.zip
+Faça o download do YakYak 1.2.0 (Linux x64) em: https://github.com/yakyak/yakyak/releases/download/v1.2.0/yakyak-linux-x64.zip
 #
 Copie o conteúdo da pasta "tradução" para a pasta "app" dentro do YakYak (já instalado).
 
