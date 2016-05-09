@@ -19,4 +19,7 @@ $ /usr/lib/yakyak/
 #
 Então colarei o conteúdo em:
 #
-$ /usr/lib/yakyak/app/
+$ /usr/lib/yakyak/resources/app/
+
+# Testes:
+Foi testado no pacote para Linux x64 e também para Windows x64 e funcionou com certas falhas nos emoticons, porém a versão original não trás os emoticons de Android como no Linux, somente os próprios caracteres.
