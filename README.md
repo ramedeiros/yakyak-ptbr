@@ -10,4 +10,5 @@ Baixar o pacote, descompactar e usar: https://codeload.github.com/ramedeiros/yak
 #
 Ou diretamente pelo terminal: 
 $ git clone https://github.com/ramedeiros/yakyak-ptbr.git
+#
 É só acessar a pasta (cd yakyak-ptbr) e executar o app "yakyak".
