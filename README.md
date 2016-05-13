@@ -6,6 +6,8 @@ Página oficial: https://github.com/yakyak/yakyak
 Está é uma tradução do YakYak 1.2.0 para Português-BR.
 
 # Instalação:
-Baixe o pacote e usa: https://codeload.github.com/ramedeiros/yakyak-ptbr/zip/master
+Baixar o pacote, descompactar e usar: https://codeload.github.com/ramedeiros/yakyak-ptbr/zip/master
 #
-Ou diretamente pelo terminal: git clone https://github.com/ramedeiros/yakyak-ptbr.git
+Ou diretamente pelo terminal: 
+$ git clone https://github.com/ramedeiros/yakyak-ptbr.git
+É só acessar a pasta (cd yakyak-ptbr) e executar o app "yakyak".
