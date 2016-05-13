@@ -1,0 +1,20 @@
+(function() {
+  module.exports = {
+    applayout: require('./applayout'),
+    convlist: require('./convlist'),
+    messages: require('./messages'),
+    input: require('./input'),
+    conninfo: require('./conninfo'),
+    convadd: require('./convadd'),
+    controls: require('./controls'),
+    notifications: require('./notifications'),
+    typinginfo: require('./typinginfo'),
+    menu: require('./menu'),
+    trayicon: require('./trayicon'),
+    dockicon: require('./dockicon'),
+    theme: require('./theme')
+  };
+
+}).call(this);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVpL3ZpZXdzL2luZGV4LmNvZmZlZSJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUFBLE1BQU0sQ0FBQyxPQUFQLEdBQ0k7SUFBQSxTQUFBLEVBQVcsT0FBQSxDQUFRLGFBQVIsQ0FBWDtJQUNBLFFBQUEsRUFBVyxPQUFBLENBQVEsWUFBUixDQURYO0lBRUEsUUFBQSxFQUFXLE9BQUEsQ0FBUSxZQUFSLENBRlg7SUFHQSxLQUFBLEVBQVcsT0FBQSxDQUFRLFNBQVIsQ0FIWDtJQUlBLFFBQUEsRUFBVyxPQUFBLENBQVEsWUFBUixDQUpYO0lBS0EsT0FBQSxFQUFXLE9BQUEsQ0FBUSxXQUFSLENBTFg7SUFNQSxRQUFBLEVBQVcsT0FBQSxDQUFRLFlBQVIsQ0FOWDtJQU9BLGFBQUEsRUFBZSxPQUFBLENBQVEsaUJBQVIsQ0FQZjtJQVFBLFVBQUEsRUFBWSxPQUFBLENBQVEsY0FBUixDQVJaO0lBU0EsSUFBQSxFQUFNLE9BQUEsQ0FBUSxRQUFSLENBVE47SUFVQSxRQUFBLEVBQVUsT0FBQSxDQUFRLFlBQVIsQ0FWVjtJQVdBLFFBQUEsRUFBVSxPQUFBLENBQVEsWUFBUixDQVhWO0lBWUEsS0FBQSxFQUFPLE9BQUEsQ0FBUSxTQUFSLENBWlA7O0FBREoiLCJmaWxlIjoidWkvdmlld3MvaW5kZXguanMiLCJzb3VyY2VSb290IjoiL3NvdXJjZS8iLCJzb3VyY2VzQ29udGVudCI6WyJtb2R1bGUuZXhwb3J0cyA9XG4gICAgYXBwbGF5b3V0OiByZXF1aXJlICcuL2FwcGxheW91dCdcbiAgICBjb252bGlzdDogIHJlcXVpcmUgJy4vY29udmxpc3QnXG4gICAgbWVzc2FnZXM6ICByZXF1aXJlICcuL21lc3NhZ2VzJ1xuICAgIGlucHV0OiAgICAgcmVxdWlyZSAnLi9pbnB1dCdcbiAgICBjb25uaW5mbzogIHJlcXVpcmUgJy4vY29ubmluZm8nXG4gICAgY29udmFkZDogICByZXF1aXJlICcuL2NvbnZhZGQnXG4gICAgY29udHJvbHM6ICByZXF1aXJlICcuL2NvbnRyb2xzJ1xuICAgIG5vdGlmaWNhdGlvbnM6IHJlcXVpcmUgJy4vbm90aWZpY2F0aW9ucydcbiAgICB0eXBpbmdpbmZvOiByZXF1aXJlICcuL3R5cGluZ2luZm8nXG4gICAgbWVudTogcmVxdWlyZSAnLi9tZW51J1xuICAgIHRyYXlpY29uOiByZXF1aXJlICcuL3RyYXlpY29uJ1xuICAgIGRvY2tpY29uOiByZXF1aXJlICcuL2RvY2tpY29uJ1xuICAgIHRoZW1lOiByZXF1aXJlICcuL3RoZW1lJ1xuIl19
