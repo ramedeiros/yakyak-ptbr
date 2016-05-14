@@ -1,8 +1,0 @@
-#
-# Copie o conteúdo da pasta "tradução" dentro da pasta do YakYak (já instalado), dentro da pasta "app". 
-#
-#
-# EXEMPLO:
-# Minha pasta do YakYak está localizada em: /usr/lib/yakyak/
-# Então colarei o conteúdo em /usr/lib/yakyak/app/
-#
